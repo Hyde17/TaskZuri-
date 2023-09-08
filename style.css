@@ -1,0 +1,17 @@
+body {
+ font-family: Arial, sans-serif;
+ text-align: center;
+}
+
+h1 {
+ margin-top: 150px;
+}
+
+.profile {
+ margin: 20px;
+}
+
+img {
+ max-width: 100px;
+ border-radius: 50%;
+}
